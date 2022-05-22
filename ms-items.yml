@@ -3,3 +3,8 @@ server:
 
 config:
   texto: Configuration Dev Environment
+
+spring:
+  cloud:
+    config:
+      enabled: false
