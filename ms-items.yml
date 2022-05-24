@@ -2,4 +2,4 @@ server:
   port: 8005
 
 config:
-  texto: Configuration Dev Environment
+  texto: Configuration Abiente por defecto
